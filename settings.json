@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "TAGAPANGASIWA",
+    "username": "babubot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "lokalngminecraft.play.hosting",
-    "port": 25565,
+    "ip": "Arakkal_Kotta.aternos.me",
+    "port": 58352,
     "version": "1.21.1"
   },
   "position": {
